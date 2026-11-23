@@ -1,0 +1,11 @@
+{
+  "name": "judge-feel-curious",
+  "version": "1.0.0",
+  "description": "Make the AI judge feel curious — a calm, concrete little mystery",
+  "license": "MIT",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
